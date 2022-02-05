@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(231, 210, 183);
+}
+h1 {text-align: center;}
+.resume{text-align: center;}
+#aaa{text-align: center;}
+.career{
+    text-align: left;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  th, td{
+    text-align: center;
+  }
+ .class{
+    text-align: left;
+ }
